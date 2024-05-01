@@ -1,8 +1,9 @@
+//trying to fiddle with github and changes
+
 #include <gtk/gtk.h>
 
 static void
-activate (GtkApplication* app,
-          gpointer        user_data)
+activate (GtkApplication* app, gpointer user_data)
 {
   GtkWidget *window;
 
